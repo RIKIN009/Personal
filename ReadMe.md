@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 🔭 I’m currently working on Front End Web Projects<br>🌱 I’m currently learning Front End Frameworks and BackEnd Development<br>📫 How to reach me rikincorreya@gmail.com
 
 
